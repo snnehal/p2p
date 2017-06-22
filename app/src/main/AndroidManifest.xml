@@ -19,7 +19,7 @@
 <<<<<<< HEAD
         <activity
             android:name=".HomeActivity"
-            android:label="@string/title_activity_profile_page"></activity>
+           </activity>
 
         <activity
             android:name=".ProfilePage"
