@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Patient2Patient</string>
-<<<<<<< HEAD
+
     <string name="title_activity_profile_page">ProfilePage</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-=======
+
     <string name="favorites">Favorites</string>
     <string name="chats">Recent Chats</string>
->>>>>>> ff9d033fe6cfd314a3f56522cd255dc770197593
+
 </resources>
