@@ -16,9 +16,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_profile_page"></activity>
+
         <activity
             android:name=".ProfilePage"
             android:label="@string/title_activity_profile_page"></activity>
+=======
+        <activity android:name=".HomeActivity"/>
+>>>>>>> ff9d033fe6cfd314a3f56522cd255dc770197593
     </application>
 
 </manifest>
