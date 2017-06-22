@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Patient2Patient</string>
+    <string name="favorites">Favorites</string>
+    <string name="chats">Recent Chats</string>
 </resources>
